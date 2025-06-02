@@ -1,0 +1,1 @@
+index.html Live Server ile açılması gerekli.
